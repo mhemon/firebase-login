@@ -1,8 +1,8 @@
 # firebase-login
 
-**------Feature list------** <br/>
-
 **Live Site:** <a href='https://symphonious-froyo-ac72cb.netlify.app/'>Link</a>
+
+**------Feature list------** 
 * Email Password Login
 * Social Login
   * Google Login
